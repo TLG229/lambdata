@@ -1,2 +1,1 @@
-# lambdata
-a collection of data science helper functions
+# lambdata_repo
